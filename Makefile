@@ -8,3 +8,6 @@ Output:
 
 test_cases:
 	pytest Guess.py
+
+detailed_test_cases:
+	pytest Guess.py -v

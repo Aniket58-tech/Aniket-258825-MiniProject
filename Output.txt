@@ -1,0 +1,7 @@
+Hello traveler! Welcome to the game of guesses!
+What is your name? Hi, Aniket, would you like to play the guessing game? (Enter Yes/No) There is currently no high score, it's yours for the taking!
+Pick a number between 1 and 10 It's higher
+Pick a number between 1 and 10 Nice! You got it!
+It took you 2 attempts
+Would you like to play again? (Enter Yes/No) The current high score is 2 attempts
+That's cool, have a good one!
